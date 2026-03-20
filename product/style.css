@@ -1,0 +1,16 @@
+.cards {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.card {
+    width: 30%;
+    border: 1px solid green;
+    padding: 10px 1%;
+    margin-bottom: 10px;
+    margin-right: 1%;
+    border-radius: 10px;
+    cursor: pointer;
+}
